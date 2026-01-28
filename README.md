@@ -14,7 +14,6 @@
 
 ###
 
-<align="center"> 
-  [ATABOOK](https://tofu.atabook.org)
+[ATABOOK](https://tofu.atabook.org)
 
 
