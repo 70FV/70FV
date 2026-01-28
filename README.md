@@ -14,4 +14,4 @@
 
 ###
 
-[ᴀᴛᴀʙᴏᴏᴋ](https://tofu.atabook.org/)ᴀᴛᴀʙᴏᴏᴋ
+[ATABOOK](https://tofu.atabook.org)
