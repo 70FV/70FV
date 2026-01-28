@@ -23,13 +23,4 @@
 
 
 
-###
-
-<div align="center">
-  <a href="https://tofu.atabook.org">
-    <img src="https://img.shields.io/badge/🌈ᴄʜᴜᴅs%20➜-rainbow?style=for-the-badge&logo=github" />
-  </a>
-</div>
-
-
 
