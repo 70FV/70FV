@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=70FV.70FV&left_color=blue&right_color=gray&left_text=%F0%9F%8C%88%20%E1%B4%84%CA%9C%E1%B4%9C%E1%B4%85s%20%E2%86%92"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=70FV.70FV&left_color=blue&right_color=gray&left_text=%F0%9F%8C%88%20%E1%B4%84%CA%9C%E1%B4%9C%E1%B4%85s%20%E2%9E%9C"  />
 </div>
 
 ###
