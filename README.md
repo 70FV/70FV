@@ -10,15 +10,16 @@
 
 ###
 
-<h6 align="center">credit: 𝗳𝗿𝗶𝗷𝗼𝗹𝗲𝗯𝗲𝗮𝗻</h6>
-
-###
-
 <p align="center">
   <a href="https://tofu.atabook.org">
     <img src="https://img.shields.io/badge/ATABOOK-808080?style=for-the-badge">
   </a>
 </p>
+
+###
+
+<h6 align="center">credit: 𝗳𝗿𝗶𝗷𝗼𝗹𝗲𝗯𝗲𝗮𝗻</h6>
+
 
 
 
