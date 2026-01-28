@@ -8,6 +8,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=70FV.70FV&left_color=blue&right_color=gray&left_text=%F0%9F%8C%88%20%E1%B4%84%CA%9C%E1%B4%9C%E1%B4%85s%20%E2%9E%9C"  />
 </div>
 
+
+###
+
+<h6 align="center">credit: 𝗳𝗿𝗶𝗷𝗼𝗹𝗲𝗯𝗲𝗮𝗻</h6>
+
 ###
 
 <p align="center">
@@ -15,11 +20,6 @@
     <img src="https://img.shields.io/badge/ATABOOK-808080?style=for-the-badge">
   </a>
 </p>
-
-###
-
-<h6 align="center">credit: 𝗳𝗿𝗶𝗷𝗼𝗹𝗲𝗯𝗲𝗮𝗻</h6>
-
 
 
 
