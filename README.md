@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="180" src="https://image2url.com/r2/default/gifs/1769545592565-aeccd7e3-2be2-4134-8562-e0abe2488906.gif"  />
+  <img height="180" src="https://image2url.com/r2/default/images/1770299613944-09575cde-f869-4f3c-a51f-1d4fdf4f0e38.png"  />
 </div>
 
 ###
