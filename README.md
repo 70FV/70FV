@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="center">credit: 𝗳𝗿𝗶𝗷𝗼𝗹𝗲𝗯𝗲𝗮𝗻</h6>
+<h6 align="center">pfp: 𝗳𝗿𝗶𝗷𝗼𝗹𝗲𝗯𝗲𝗮𝗻</h6>
 
 ###
 
