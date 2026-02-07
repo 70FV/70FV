@@ -19,11 +19,3 @@
   ·
   <a href="WORKING_ON_IT">𝘚𝘛𝘙𝘈𝘞</a>
 </p>
-
-###
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31p7mgr6ttbdgvcwkgaepfrtyq3y&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p7mgr6ttbdgvcwkgaepfrtyq3y&cover_image=true&theme=novatorem&show_offline=false&background_color=1381c1&interchange=false&profanity=true&bar_color=1381c1&bar_color_cover=true">
-  </a>
-</p>
