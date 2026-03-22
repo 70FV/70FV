@@ -15,7 +15,7 @@
 ###
 
 <p align="center">
-  <a href="https://tofu.atabook.org">𝘈𝘛𝘈𝘉𝘖𝘖𝘒</a>
+  <a href="https://tofu.atabook.org">ata</a>
   ·
-  <a href="https://tofucin.straw.page">𝘚𝘛𝘙𝘈𝘞</a>
+  <a href="https://tofucin.straw.page">straw</a>
 </p>
