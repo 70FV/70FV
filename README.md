@@ -13,7 +13,7 @@
 ###
 
 <h4 align="center">
-  <span style="color: gray;">pfp by 𝙛𝙧𝙞𝙟𝙤𝙡𝙚𝙗𝙚𝙖𝙣</span>
+  <sub>pfp by 𝙛𝙧𝙞𝙟𝙤𝙡𝙚𝙗𝙚𝙖𝙣</sub>
 </h4>
 
 ###
