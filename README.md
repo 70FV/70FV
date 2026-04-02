@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img height="350" src="https://i.postimg.cc/G294v3MF/Untitled69-20260401221957.png"  />
+</div>
+
+###
+
 <h4 align="center">𝙖𝙧𝙩 𝙗𝙮 𝙛𝙧𝙞𝙟𝙤𝙡𝙚𝙗𝙚𝙖𝙣</h4>
 
 ###
