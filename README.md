@@ -6,15 +6,6 @@
 
 ###
 
-
-<div align="center">
-  <img height="400" src="https://i.postimg.cc/8csGcjzw/Untitled67-20260401210208.png"  />
-</div>
+<p align="left">𝙖𝙧𝙩 𝙗𝙮 𝙛𝙧𝙞𝙟𝙤𝙡𝙚𝙗𝙚𝙖𝙣</p>
 
 ###
-
-<p align="center">
-  <a href="https://tofu.atabook.org">ata</a>
-  '
-  <a href="https://tofucin.straw.page">straw</a>
-</p>
