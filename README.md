@@ -19,7 +19,7 @@
 ###
 
 <p align="center">
-  <a href="https://tofu.atabook.org">新book</a>
+  <a href="https://tofu.atabook.org">ata</a>
   '
   <a href="https://tofucin.straw.page">straw</a>
 </p>
