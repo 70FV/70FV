@@ -8,9 +8,6 @@
   <img height="180" src="https://image2url.com/r2/default/gifs/1769545592565-aeccd7e3-2be2-4134-8562-e0abe2488906.gif"  />
 </div>
 
-###
-
-<h6 align="center">pfp: 𝗳𝗿𝗶𝗷𝗼𝗹𝗲𝗯𝗲𝗮𝗻</h6>
 
 ###
 
