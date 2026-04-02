@@ -12,6 +12,13 @@
 
 ###
 
-<h4 align="center">𝙖𝙧𝙩 𝙗𝙮 𝙛𝙧𝙞𝙟𝙤𝙡𝙚𝙗𝙚𝙖𝙣</h4>
+<h4 align="center">pfp by 𝙛𝙧𝙞𝙟𝙤𝙡𝙚𝙗𝙚𝙖𝙣</h4>
 
 ###
+
+<p align="center">
+  <a href="https://tofu.atabook.org">ata</a>
+  '
+  <a href="https://tofucin.straw.page">straw</a>
+</p>
+
