@@ -7,9 +7,8 @@
 ###
 
 <div align="center">
-  <img height="270" src="https://i.postimg.cc/SxzzLd56/IMG-9022.png"  />
+  <img height="200" src="https://i.postimg.cc/G294v3MF/Untitled69-20260401221957.png"  />
 </div>
-
 
 ###
 
