@@ -1,9 +1,9 @@
 ###
 
 <p align="center">
-  <a href="https://tofu.atabook.org">ata</a>
-  '
-  <a href="https://tofucin.straw.page">straw</a>
+  <a href="https://tofu.atabook.org">新BOOK</a>
+  ꕤ
+  <a href="https://tofucin.straw.page">STRAW</a>
 </p>
 
 ###
