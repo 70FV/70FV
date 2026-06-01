@@ -1,10 +1,3 @@
-
-###
-
-<h6 align="center">
-  <sub>pfp by 𝙛𝙧𝙞𝙟𝙤𝙡𝙚𝙗𝙚𝙖𝙣</sub>
-</h6>
-
 ###
 
 <p align="center">
@@ -20,3 +13,7 @@
 </div>
 
 ###
+
+<h6 align="center">
+  <sub>pfp by 𝙛𝙧𝙞𝙟𝙤𝙡𝙚𝙗𝙚𝙖𝙣</sub>
+</h6>
