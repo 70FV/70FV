@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://tofu.atabook.org">新BOOK</a>
   ꕤ
-  <a href="https://tofucin.straw.page">STRAW</a>
+  <a href="jochis">STRAW</a>
 </p>
 
 ###
