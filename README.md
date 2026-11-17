@@ -15,5 +15,5 @@
 ###
 
 <h6 align="center">
-  <sub>pfp by 𝙛𝙧𝙞𝙟𝙤𝙡𝙚𝙗𝙚𝙖𝙣</sub>
+  <sub>art @meatomeato</sub>
 </h6>
