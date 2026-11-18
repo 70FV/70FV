@@ -1,6 +1,4 @@
 ###
-
-<p align="center">
   <img height="250" src="https://www.image2url.com/r2/default/images/1794985991368-c589eefb-db1e-426d-9101-095b606835bd.webp" />
 
   <a href="https://tofu.atabook.org">新BOOK</a>
