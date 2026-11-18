@@ -18,8 +18,6 @@
   <img data-importer="image" height="25" src="https://www.image2url.com/r2/default/images/1795029858626-b1f65102-9990-475e-bae8-c3824db4ea28.png"  />
 </div>
 
-###
-
 <h6 align="center">
   <sub>art @meatomeato</sub>
 </h6>
