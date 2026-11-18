@@ -10,10 +10,6 @@
   <img data-importer="image" height="25" src="https://www.image2url.com/r2/default/images/1795029766200-b9d65879-413f-44e7-beff-56d8f8a2578f.png"  />
 </div>
 
-
-
-###
-
 <div align="center">
   <img height="250" src="https://www.image2url.com/r2/default/images/1794880665393-cdd2cf51-7e1e-437c-9084-a7cb83c6c5e5.jpeg"  />
 </div>
