@@ -7,7 +7,7 @@
   <img height="80" src="https://www.image2url.com/r2/default/images/1794986253632-9fa6ed45-2c81-49d8-92ff-ed77ed14d6dd.webp" />
 </p>
 <div data-importer="image" align="center">
-  <img data-importer="image" height="23" src="https://www.image2url.com/r2/default/images/1795029766200-b9d65879-413f-44e7-beff-56d8f8a2578f.png"  />
+  <img data-importer="image" height="24" src="https://www.image2url.com/r2/default/images/1795029766200-b9d65879-413f-44e7-beff-56d8f8a2578f.png"  />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 </div>
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="23" src="https://www.image2url.com/r2/default/images/1795029858626-b1f65102-9990-475e-bae8-c3824db4ea28.png"  />
+  <img data-importer="image" height="24" src="https://www.image2url.com/r2/default/images/1795029858626-b1f65102-9990-475e-bae8-c3824db4ea28.png"  />
 </div>
 
 <h6 align="center">
