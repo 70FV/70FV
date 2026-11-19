@@ -1,4 +1,9 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+know+you're+in+there.;I+know+you+can+hear+me.;Cas...+It's+me.;I+need+you.)](https://git.io/typing-svg)
+
+
+###
+
 <p align="center">
   <img height="80" src="https://www.image2url.com/r2/default/images/1794985991368-c589eefb-db1e-426d-9101-095b606835bd.webp" />
   <a href="https://tofu.atabook.org">新BOOK</a>
