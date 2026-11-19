@@ -25,10 +25,17 @@
 <div data-importer="image" align="center">
   <img data-importer="image" height="24" src="https://www.image2url.com/r2/default/images/1795029858626-b1f65102-9990-475e-bae8-c3824db4ea28.png"  />
 
-
 <h6 align="center">
   <sub>art @meatomeato</sub>
 </h6>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lora&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+know+you're+still+in+there.;I+know+you+are.;I+forgive+you%2C+Cas...;I+love+you." alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 <p align="center">
