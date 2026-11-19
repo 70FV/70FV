@@ -32,6 +32,6 @@
 
 
 <p align="center">
-  <img src="https://www.image2url.com/r2/default/images/1795111139632-9f23736c-064f-43a7-a89a-1cacf26704cc.png" width="20" />
-  <img src="https://www.image2url.com/r2/default/images/1795111162051-9f4ed27b-3f48-4a19-a347-a051d9a368c3.png" width="20" />
+  <img src="https://www.image2url.com/r2/default/images/1795111139632-9f23736c-064f-43a7-a89a-1cacf26704cc.png" width="70" />
+  <img src="https://www.image2url.com/r2/default/images/1795111162051-9f4ed27b-3f48-4a19-a347-a051d9a368c3.png" width="70" />
 </p>
