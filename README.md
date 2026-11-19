@@ -10,7 +10,7 @@
   ꕤ
 <p align="center">
   <a href="https://tofu.atabook.org">
-    <img src="https://www.image2url.com/r2/default/images/1795107627005-d9850247-b7dd-4cdc-ba2e-59a56c376d5e.png" alt="Click here" />
+    <img src="https://www.image2url.com/r2/default/images/1795107627005-d9850247-b7dd-4cdc-ba2e-59a56c376d5e.png" width="15" alt="Click here" />
   </a>
 </p>
 <div data-importer="image" align="center">
