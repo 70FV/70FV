@@ -21,8 +21,3 @@
 <h6 align="center">
   <sub>art @meatomeato</sub>
 </h6>
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="80" src="https://www.image2url.com/r2/default/images/1795030857712-88d530f3-4ba1-4b2b-9ae7-0aaddfb4d7eb.webp"  />
-</div>
-
