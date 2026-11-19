@@ -1,27 +1,14 @@
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://www.image2url.com/r2/default/images/1794985991368-c589eefb-db1e-426d-9101-095b606835bd.webp" width="65" alt="Atabook GIF">
-      </td>
-      <td align="center">
-        <a href="https://tofu.atabook.org">
-          <img src="https://www.image2url.com/r2/default/images/1795107627005-d9850247-b7dd-4cdc-ba2e-59a56c376d5e.png" width="100" alt="Atabook">
-        </a>
-      </td>
-      <td align="center">ꕤ</td>
-      <td align="center">
-        <a href="https://70fv.straw.page">
-          <img src="https://www.image2url.com/r2/default/images/1795108342822-99674c22-af41-439b-b17f-9ddfe8603211.png" width="100" alt="Strawpage">
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://www.image2url.com/r2/default/images/1794986253632-9fa6ed45-2c81-49d8-92ff-ed77ed14d6dd.webp" width="65" alt="Strawpage GIF">
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://www.image2url.com/r2/default/images/1794985991368-c589eefb-db1e-426d-9101-095b606835bd.webp" width="45" />
+  <a href="https://tofu.atabook.org">
+    <img src="https://www.image2url.com/r2/default/images/1795107627005-d9850247-b7dd-4cdc-ba2e-59a56c376d5e.png" width="75" />
+  </a>
+  ꕤ
+  <a href="https://70fv.straw.page">
+    <img src="https://www.image2url.com/r2/default/images/1795108342822-99674c22-af41-439b-b17f-9ddfe8603211.png" width="75" />
+  </a>
+  <img src="https://www.image2url.com/r2/default/images/1794986253632-9fa6ed45-2c81-49d8-92ff-ed77ed14d6dd.webp" width="45" />
+</p>
 
 
 
